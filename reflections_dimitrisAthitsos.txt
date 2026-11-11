@@ -1,0 +1,9 @@
+1. My primary contribution to the project was writing almost all of the code for the project.
+
+2. The most challenging problem we faced was a difficult bug that we could not patch because there were two things that were causing it. It basically made it so that when an event was entered into the program, it would read the previous one, making it always behind. It took a while to catch and patch it.
+
+3. We created a new program and copied as much of the program as was required to replicate the bug, tested to see what exactly was happening, and added a fix.
+
+4. For this project, he most useful skills of all that we learned in CSE 1106 were how to use circuit boards.
+
+If I had more time, I would make the system more sophisticated and have it record more information, and probably improve the clarity of the instructions.
