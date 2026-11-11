@@ -1,0 +1,14 @@
+1. What was your primary contribution to the project?
+I helped with the led setup, with the debugging process, and testing process.
+
+2. What was the most challenging technical problem your team encountered?
+The most challenging problem was a bug where a newline was being printed/caught when it shouldnt have been.
+
+3. How did your team use testing or debugging to solve a problem?
+We took pieces of the code to check where a bug we ran into had occured then from there we were able to correct it and get the program functioning correctly/according to what we were expecting.
+
+4. Which skills from CSE 1106 were most useful?
+Some skills that were useful were the skills learnt from lab 2, about github and learning how to use breadboards/circuit boards.
+
+5. What would you improve if you had more time.
+Something I would improve is how to go about tracking students in and out.
