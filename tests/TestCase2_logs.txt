@@ -1,0 +1,6 @@
+Student Entered.
+Room occupants: 1/1.  Room is full.
+Student Exited.
+Room occupants: 0/1.  Room is not full.
+Student Entered.
+Room occupants: 1/1.  Room is full.
