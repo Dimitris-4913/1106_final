@@ -23,6 +23,7 @@ int main()
 	char event;
 	printf("Enter + for a student entering, - for a student leaving, and x or q to quit. ");
 	scanf("%c",&event);
+	getchar();
 	while(toupper(event) != 'X' && toupper(event) != 'Q'){
 		printf("%c\n",event);
 		if(event == '+'){
@@ -57,5 +58,6 @@ int main()
 		
 		printf("Enter + for a student entering, - for a student leaving, and x or q to quit: ");
 		scanf("%c",&event);
+		getchar();
 	}
 }
