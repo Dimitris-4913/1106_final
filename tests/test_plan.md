@@ -107,3 +107,6 @@ Test case 6:
   Commands 3 and 6 (enter) failed because the room was already full, as expeected
 
   Application ended after q was input, as expected
+
+
+Included in this folder is an upload of the logs from running Test Case 2.
