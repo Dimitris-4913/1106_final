@@ -7,11 +7,17 @@ Test case 1:
 
 
 Test case 2:
+
   Input: 0 1 + - + Q
+
   The capacity of 0 was rejected, as expected
+  
   Ended on 1/1 capacity, full, as expected
+  
   LED lit up only when the room was full (1/1), as expected
+  
   Logs recorded the states to be 1/1 full, 0/1 not gull, 1/1 full,    as expected
+  
   Application ended after Q was input, as expected
 
 
